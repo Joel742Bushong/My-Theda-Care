@@ -20,8 +20,7 @@ My Theda Care is a comprehensive tool designed to manage and track medical expen
 ## Author
 - **Name**: Your A/C Name
 - **Email**: Your a/c email id
-- **Website**: Keyword
-
+- **Website**: [My Theda Care](https://www.mytheda-care.com)
 ## Getting Started
 To get started with this project, follow the steps below:
 
